@@ -13,3 +13,14 @@ Description:
 
 
 
+Then name yout map according to your preference. In this example, I have worked on the area of Clarington so 
+
+
+
+
+![image](https://github.com/prateekk13/DevLog/assets/146376167/d6d7dfa7-0543-4726-bda7-b19f36ea8ed6)
+
+
+
+
+
