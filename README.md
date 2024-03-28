@@ -1,4 +1,5 @@
 # DevLog
 
-![image](https://github.com/prateekk13/DevLog/assets/146376167/ac086e41-1a86-4bd7-a285-21f95892effd)
+![image](https://github.com/prateekk13/DevLog/assets/146376167/41edbed9-dce1-4e9a-ab5f-fac4335c7eae)
+
 
