@@ -13,12 +13,22 @@ Description:
 
 
 
-Then name yout map according to your preference. In this example, I have worked on the area of Clarington so 
+Then name yout map according to your preference. In this example, I have worked on the area of Clarington so name which is being chosen is 'Clarington_PK' and it is being saved on the folder dedicated to the Fleming college. 
 
+![image](https://github.com/prateekk13/DevLog/assets/146376167/c111bfeb-3500-4557-986b-ff943b327841)
 
+Click on the 'Create Map' option below to create the map.
 
+![image](https://github.com/prateekk13/DevLog/assets/146376167/efd8cf4e-0210-4a29-95dd-1e027105e80b)
 
-![image](https://github.com/prateekk13/DevLog/assets/146376167/d6d7dfa7-0543-4726-bda7-b19f36ea8ed6)
+This is the interface which is being seen after clicking on the 'Create Map' option. 
+There are many options which can be explored later according to our preferences. 
+
+![image](https://github.com/prateekk13/DevLog/assets/146376167/3ea889f4-d907-4718-b042-7adfb81847c5)
+
+First step would be to create or add layers.
+![image](https://github.com/prateekk13/DevLog/assets/146376167/f8b607dc-10c3-48e1-ad38-7cb27946fc3b)
+
 
 
 
